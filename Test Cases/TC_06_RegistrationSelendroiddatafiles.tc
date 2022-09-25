@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>datafiles</description>
+   <name>TC_06_RegistrationSelendroiddatafiles</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fabf9188-9773-48bf-95b9-e05aac4bd4df</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>default</name>
+   <tag></tag>
+   <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description>timeout</description>
+      <initValue>10</initValue>
+      <name>timeOut</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>filepath APK selendroid</description>
+      <initValue>'C:\\Users\\Ilhamzi\\Downloads\\selendroid-test-app-0.17.0.apk'</initValue>
+      <name>filePath</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>
